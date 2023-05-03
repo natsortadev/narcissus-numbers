@@ -3,5 +3,5 @@
 > For example, take 153 (3 digits), which is narcissistic:
 > ```1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153```
 
-explanation taken from the [CodeWars challenge instructions](https://www.codewars.com/kata/5287e858c6b5a9678200083c/).
+explanation taken from the [CodeWars challenge instructions](https://www.codewars.com/kata/5287e858c6b5a9678200083c/) by kata's sensei [JulianNicholls](https://www.codewars.com/users/JulianNicholls).
 
